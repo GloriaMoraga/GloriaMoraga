@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @GloriaMoraga
 - 👀 I’m interested in learn code
 - 🌱 I’m currently learning React and React Native
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I work with Vue, Vuex and Quasar
+- 👀 I love chart.js
 
 
 <!---
